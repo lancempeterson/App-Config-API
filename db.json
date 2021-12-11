@@ -1,0 +1,12 @@
+{
+  "appConfig":
+  {
+    "version": "1.0",
+    "requiresUpdate": false
+  },
+  "browserConfig":
+  {
+    "useUrlChangeSites": ["reddit.com", "youtube.com", "vimeo.com", "yahoo.com", "migaku.io"],
+    "blackListSites": ["sbfbu=", "?guccounter", "m.youtube.com"]
+  }
+}
