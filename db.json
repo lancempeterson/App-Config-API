@@ -6,7 +6,7 @@
   },
   "browserConfig":
   {
-    "useUrlChangeSites": ["reddit.com", "youtube.com", "vimeo.com", "yahoo.com", "migaku.io"],
+    "useUrlChangeSites": ["reddit.com", "youtube.com", "vimeo.com", "yahoo.com", "migaku.io", "www.google.com/amp"],
     "blackListSites": ["sbfbu=", "?guccounter", "m.youtube.com"]
   }
 }
