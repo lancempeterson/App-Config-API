@@ -8,6 +8,8 @@
   {
     "useUrlChangeSites": ["reddit.com", "youtube.com", "vimeo.com", "yahoo.com", "migaku.io", "google.com/amp"],
     "blackListSites": ["sbfbu=", "?guccounter", "m.youtube.com"],
-    "faviconIcoSites": ["google.com"]
+    "faviconIcoSites": ["google.com"],
+    "googleSearchURL": "google.com/search?q=",
+    "duckduckgoSearchURL": "duckduckgo.com/?q="
   }
 }
