@@ -10,6 +10,7 @@
     "blackListSites": ["sbfbu=", "?guccounter", "m.youtube.com"],
     "faviconIcoSites": ["google.com","migaku.io"],
     "googleSearchURL": "google.com/search?q=",
-    "duckduckgoSearchURL": "duckduckgo.com/?q="
+    "duckduckgoSearchURL": "duckduckgo.com/?q=",
+    "searchSuggestionsEndpoint": "http://suggestqueries.google.com/complete/search?client=firefox&q="
   }
 }
