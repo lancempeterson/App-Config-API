@@ -2,7 +2,8 @@
   "appConfig":
   {
     "version": "1.0",
-    "requiresUpdate": false
+    "requiresUpdate": false,
+    "defaultDictionaryURL": "https://jisho.org/search/"
   },
   "browserConfig":
   {
