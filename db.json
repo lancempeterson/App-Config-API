@@ -7,7 +7,7 @@
   },
   "browserConfig":
   {
-    "blackListSites": ["sbfbu=", "?guccounter", "gws-wiz-serp"],
+    "blackListSites": ["sbfbu=", "?guccounter"],
     "dontUseUrlChangeSites": ["google.com"],
     "faviconIcoSites": ["google.com", "migaku.io"],
     "googleSearchURL": "google.com/search?q=",
