@@ -8,7 +8,6 @@
   "browserConfig":
   {
     "blackListSites": ["sbfbu=", "?guccounter"],
-    "dontUseUrlChangeSites": ["google", "duckduckgo", "wikipedia", "commons.m.wikimedia"],
     "faviconIcoSites": ["google.com", "migaku.io"],
     "googleSearchURL": "google.com/search?q=",
     "duckduckgoSearchURL": "duckduckgo.com/?q=",
